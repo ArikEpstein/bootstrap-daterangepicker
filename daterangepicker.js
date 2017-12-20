@@ -100,7 +100,7 @@
                 '<div class="calendar left">' +
                 '<div class="daterangepicker_input">' +
                 '<input class="input-mini form-control" type="text" name="daterangepicker_start" value="" />' +
-                '<i>From: </i>' +
+                '<span>From </span>' +
                 '<div class="calendar-time">' +
                 '<div></div>' +
                 '<i class="fa fa-clock-o glyphicon glyphicon-time"></i>' +
@@ -111,7 +111,7 @@
                 '<div class="calendar right">' +
                 '<div class="daterangepicker_input">' +
                 '<input class="input-mini form-control" type="text" name="daterangepicker_end" value="" />' +
-                '<i>To: </i>' +
+                '<span>To </span>' +
                 '<div class="calendar-time">' +
                 '<div></div>' +
                 '<i class="fa fa-clock-o glyphicon glyphicon-time"></i>' +
